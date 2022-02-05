@@ -92,7 +92,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://https://www.linkedin.com/in/juan-s-acero-triana/"
+      url       = "https://www.linkedin.com/in/juan-s-acero-triana/"
+  [[params.social]]
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.researchgate.net/profile/Juan-S-Acero-Triana"
   #[[params.social]]
   #    icon      = "facebook-square" # icon name without the 'fa-'
   #    icon_pack = "fab"
